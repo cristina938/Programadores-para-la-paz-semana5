@@ -1,0 +1,8 @@
+Ruta http://localhost:3000
+Respuesta: [servidor activo]
+
+Ruta http://localhost:3000/saludo
+Respuesta: [Hola comunidad]
+
+Ruta http://localhost:3000/mensaje/juan
+Respuesta: [Hola meraris]

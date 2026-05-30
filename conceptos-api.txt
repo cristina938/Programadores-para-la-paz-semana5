@@ -1,0 +1,12 @@
+Ruta: POST /reporte
+
+Qué hace esta ruta:
+Esta ruta recibe datos que envía el usuario desde una app o formulario. 
+POST significa "enviar/postear" información al servidor. 
+Por ejemplo recibe un reporte con título, descripción, ubicación, etc y lo guarda.
+
+Para qué serviría en una aplicación comunitaria:
+Serviría para que los vecinos reporten problemas del barrio.
+Ej: reportar un hueco en la calle, una lámpara dañada, basura acumulada, 
+inseguridad en una zona. La app enviaría el reporte al servidor y este lo guardaría 
+para que la alcaldía o líderes comunitarios lo revisen y den solución.
